@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    background-color: #f7f7f7;
+  }
+  .container {
+    margin-top: 50px;
+  }
+  h1, h2, h3 {
+    margin-top: 0;
+  }
+  .section-title {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  .section-content {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  .contact-info {
+    list-style-type: none;
+    padding: 0;
+  }
+  .contact-info li {
+    margin-bottom: 10px;
+  }
